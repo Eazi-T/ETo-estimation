@@ -57,9 +57,14 @@ The notebook and datasets used can be found in the codes and ETo folders respect
 - matplotlib, seaborn
 - Jupyter Notebook
 
+## Structure
 ETo-estimation/
 ├── data/          # Processeed meteorological data
 ├── notebook/      # Main Jupyter Notebook Files            
 └── README.md
 
-Link to the punlished manuscript: https://abuja2024certificate.niae.net/downloads/NIAE_PROCEEDING_ABUJA_2024.pdf
+## 📝 Citation
+If using this research, kindly cite as:
+Aiyegbeni I.T. Estimation of Reference Evapotranspiration Using Machine Learning Models: A Case Study of the Ogun-Osun River Basin. 2025.
+
+Link to the published manuscript: https://abuja2024certificate.niae.net/downloads/NIAE_PROCEEDING_ABUJA_2024.pdf
