@@ -58,8 +58,8 @@ The notebook and datasets used can be found in the codes and ETo folders respect
 - Jupyter Notebook
 
 ETo-estimation/
-├── data/                      # Processeed meteorological data
-├── notebook/                 # Main Jupyter Notebook Files            
+├── data/          # Processeed meteorological data
+├── notebook/      # Main Jupyter Notebook Files            
 └── README.md
 
 Link to the punlished manuscript: https://abuja2024certificate.niae.net/downloads/NIAE_PROCEEDING_ABUJA_2024.pdf
